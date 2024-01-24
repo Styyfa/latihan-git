@@ -1,0 +1,2 @@
+# latihan-git
+Just enjoy
